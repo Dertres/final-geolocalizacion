@@ -9,8 +9,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class HdpApplicationTests {
 
-	@Test
+	@Test//por cada prueba se coloca esta anotación
 	public void contextLoads() {
 	}
+        
+        
 
 }
